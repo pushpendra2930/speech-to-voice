@@ -1,0 +1,25 @@
+#text-to-speech {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  body{
+    background-color: palevioletred;
+  }
+  
+  #text {
+    width: 350px;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #speak-button {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
